@@ -16,4 +16,4 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)   
     ]
 )
-logger = logging.getLogger("text_summarizer")
+logger = logging.getLogger("textSummarizerLogger")
