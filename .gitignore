@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.lib
+
+# Virtual environments
+venv/
+env/
+textS/Lib/
+textS/Include/
+textS/Scripts/
+textS/pyvenv.cfg
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and other IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Git LFS large files (optional – if you track models)
+*.pt
+*.pth
+*.pkl
+
+# Environment files
+.env
